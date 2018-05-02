@@ -1,0 +1,13 @@
+{
+	"table_name":"client_info",
+	"table_columns":[
+	{
+		"_id":"1",
+		"app_id":"",
+		"gender":"1",
+		"current_level_id":"8",
+		"current_level_exp":"15000",
+		"upgrade_exp":"21120"
+	}
+	]
+}
