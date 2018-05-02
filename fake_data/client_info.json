@@ -2,12 +2,12 @@
 	"table_name":"client_info",
 	"table_columns":[
 	{
-		"_id":"1",
+		"_id":1,
 		"app_id":"b0fb3e80-82ed-44c5-aaaa-824bb129efe7",
-		"gender":"1",
-		"current_level_id":"8",
-		"current_level_exp":"15000",
-		"upgrade_exp":"21120"
+		"gender":1,
+		"current_level_id":8,
+		"current_level_exp":15000,
+		"upgrade_exp":21120
 	}
 	]
 }
