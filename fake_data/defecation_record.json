@@ -1,0 +1,75 @@
+{
+	"table_name":"defecation_record",
+	"table_columns":[
+		{
+			"_id":"1",
+			"insert_time":"2018-04-01 21:56:00",
+			"start_time":"2018-04-01 21:56:00",
+			"end_time":"2018-04-01 21:56:00",
+			"is_user_finish":"1",
+			"gain_exp":"666",
+			"smell":"2",
+			"constipation":"1",
+			"stickiness":"1",
+			"overall_rating":"8.1",
+			"upload_to_server":"1",
+			"server_call_back":"1"
+		},
+		{
+			"_id":"2",
+			"insert_time":"2018-04-02 11:56:00",
+			"start_time":"2018-04-02 11:46:00",
+			"end_time":"2018-04-02 11:59:00",
+			"is_user_finish":"1",
+			"gain_exp":"666",
+			"smell":"2",
+			"constipation":"1",
+			"stickiness":"1",
+			"overall_rating":"8.1",
+			"upload_to_server":"1",
+			"server_call_back":"1"
+		},
+		{
+			"_id":"3",
+			"insert_time":"2018-04-01 21:56:00",
+			"start_time":"2018-04-01 21:56:00",
+			"end_time":"2018-04-01 21:56:00",
+			"is_user_finish":"1",
+			"gain_exp":"666",
+			"smell":"2",
+			"constipation":"1",
+			"stickiness":"1",
+			"overall_rating":"8.1",
+			"upload_to_server":"1",
+			"server_call_back":"1"
+		},
+		{
+			"_id":"4",
+			"insert_time":"2018-04-01 21:56:00",
+			"start_time":"2018-04-01 21:56:00",
+			"end_time":"2018-04-01 21:56:00",
+			"is_user_finish":"1",
+			"gain_exp":"666",
+			"smell":"2",
+			"constipation":"1",
+			"stickiness":"1",
+			"overall_rating":"8.1",
+			"upload_to_server":"1",
+			"server_call_back":"1"
+		},
+		{
+			"_id":"5",
+			"insert_time":"2018-04-01 21:56:00",
+			"start_time":"2018-04-01 21:56:00",
+			"end_time":"2018-04-01 21:56:00",
+			"is_user_finish":"1",
+			"gain_exp":"666",
+			"smell":"2",
+			"constipation":"1",
+			"stickiness":"1",
+			"overall_rating":"8.1",
+			"upload_to_server":"1",
+			"server_call_back":"1"
+		},
+	]
+}
