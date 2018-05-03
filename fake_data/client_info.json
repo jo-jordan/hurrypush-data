@@ -6,8 +6,8 @@
 		"app_id":"b0fb3e80-82ed-44c5-aaaa-824bb129efe7",
 		"gender":1,
 		"current_level_id":9,
-		"current_level_exp":10000,
-		"upgrade_exp":21120
+		"current_level_exp":1000,
+		"upgrade_exp":10000
 	}
 	]
 }
