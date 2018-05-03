@@ -60,12 +60,6 @@
 		"level_number":10,
 		"level_exp_single":7600,
 		"level_total":35200
-	},
-	{
-		"level_id":11,
-		"level_number":11,
-		"level_exp_single":7600,
-		"level_total":35200
 	}
 	]
 }
