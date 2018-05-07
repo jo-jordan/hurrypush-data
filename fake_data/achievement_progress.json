@@ -10,7 +10,8 @@
 			"achi_name":"0_1",
 			"achi_condition":7,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续3次在1分钟之内完成排便可达成"
 		},
 		{
 			"_id":2,
@@ -21,7 +22,8 @@
 			"achi_name":"0_2",
 			"achi_condition":7,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续3次在3分钟之内完成排便可达成"
 		},
 		{
 			"_id":3,
@@ -32,7 +34,8 @@
 			"achi_name":"0_3",
 			"achi_condition":7,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续3次在5分钟之内完成排便可达成"
 		},
 		{
 			"_id":4,
@@ -43,7 +46,8 @@
 			"achi_name":"0_4",
 			"achi_condition":31,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续5次在1分钟之内完成排便可达成"
 		},
 		{
 			"_id":5,
@@ -54,7 +58,8 @@
 			"achi_name":"0_5",
 			"achi_condition":31,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续5次在3分钟之内完成排便可达成"
 		},
 		{
 			"_id":6,
@@ -65,7 +70,8 @@
 			"achi_name":"0_6",
 			"achi_condition":31,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续5次在5分钟之内完成排便可达成"
 		},
 		{
 			"_id":7,
@@ -76,7 +82,8 @@
 			"achi_name":"0_7",
 			"achi_condition":1023,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续10次在1分钟之内完成排便可达成"
 		},
 		{
 			"_id":8,
@@ -87,7 +94,8 @@
 			"achi_name":"0_8",
 			"achi_condition":1023,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续10次在3分钟之内完成排便可达成"
 		},
 		{
 			"_id":9,
@@ -98,7 +106,8 @@
 			"achi_name":"0_9",
 			"achi_condition":1023,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"连续10次在5分钟之内完成排便可达成"
 		},
 		{
 			"_id":10,
@@ -109,7 +118,8 @@
 			"achi_name":"1_10",
 			"achi_condition":7,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计3次在1分钟之内完成排便可达成"
 		},
 		{
 			"_id":11,
@@ -120,7 +130,8 @@
 			"achi_name":"1_11",
 			"achi_condition":7,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计3次在3分钟之内完成排便可达成"
 		},
 		{
 			"_id":12,
@@ -131,7 +142,8 @@
 			"achi_name":"1_12",
 			"achi_condition":7,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计3次在5分钟之内完成排便可达成"
 		},
 		{
 			"_id":13,
@@ -142,7 +154,8 @@
 			"achi_name":"1_13",
 			"achi_condition":31,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计5次在1分钟之内完成排便可达成"
 		},
 		{
 			"_id":14,
@@ -153,7 +166,8 @@
 			"achi_name":"0_1",
 			"achi_condition":31,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计5次在3分钟之内完成排便可达成"
 		},
 		{
 			"_id":15,
@@ -164,7 +178,8 @@
 			"achi_name":"0_1",
 			"achi_condition":31,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计5次在5分钟之内完成排便可达成"
 		},
 		{
 			"_id":16,
@@ -175,7 +190,8 @@
 			"achi_name":"0_1",
 			"achi_condition":1023,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计10次在1分钟之内完成排便可达成"
 		},
 		{
 			"_id":17,
@@ -186,7 +202,8 @@
 			"achi_name":"0_1",
 			"achi_condition":1023,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计10次在3分钟之内完成排便可达成"
 		},
 		{
 			"_id":18,
@@ -197,7 +214,8 @@
 			"achi_name":"0_1",
 			"achi_condition":1023,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00"
+			"update_time":"2018-05-07 00:00:00",
+			"achi_description":"累计10次在5分钟之内完成排便可达成"
 		}
 	]
 }
