@@ -1,0 +1,203 @@
+{
+	"table_name":"achievement_progress",
+	"table_columns":[
+		{
+			"_id":1,
+			"achi_type":0,
+			"achi_required_minutes":1,
+			"achi_required_days":3,
+			"achi_id":1,
+			"achi_name":"0_1",
+			"achi_condition":7,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":2,
+			"achi_type":0,
+			"achi_required_minutes":3,
+			"achi_required_days":3,
+			"achi_id":2,
+			"achi_name":"0_2",
+			"achi_condition":7,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":3,
+			"achi_type":0,
+			"achi_required_minutes":5,
+			"achi_required_days":3,
+			"achi_id":3,
+			"achi_name":"0_3",
+			"achi_condition":7,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":4,
+			"achi_type":0,
+			"achi_required_minutes":1,
+			"achi_required_days":5,
+			"achi_id":4,
+			"achi_name":"0_4",
+			"achi_condition":31,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":5,
+			"achi_type":0,
+			"achi_required_minutes":3,
+			"achi_required_days":5,
+			"achi_id":5,
+			"achi_name":"0_5",
+			"achi_condition":31,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":6,
+			"achi_type":0,
+			"achi_required_minutes":5,
+			"achi_required_days":5,
+			"achi_id":6,
+			"achi_name":"0_6",
+			"achi_condition":31,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":7,
+			"achi_type":0,
+			"achi_required_minutes":1,
+			"achi_required_days":10,
+			"achi_id":7,
+			"achi_name":"0_7",
+			"achi_condition":1023,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":8,
+			"achi_type":0,
+			"achi_required_minutes":3,
+			"achi_required_days":10,
+			"achi_id":8,
+			"achi_name":"0_8",
+			"achi_condition":1023,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":9,
+			"achi_type":0,
+			"achi_required_minutes":5,
+			"achi_required_days":10,
+			"achi_id":9,
+			"achi_name":"0_9",
+			"achi_condition":1023,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":10,
+			"achi_type":1,
+			"achi_required_minutes":1,
+			"achi_required_days":0,
+			"achi_id":10,
+			"achi_name":"1_10",
+			"achi_condition":7,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":11,
+			"achi_type":1,
+			"achi_required_minutes":3,
+			"achi_required_days":0,
+			"achi_id":11,
+			"achi_name":"1_11",
+			"achi_condition":7,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":12,
+			"achi_type":1,
+			"achi_required_minutes":5,
+			"achi_required_days":0,
+			"achi_id":1,
+			"achi_name":"1_12",
+			"achi_condition":7,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":13,
+			"achi_type":1,
+			"achi_required_minutes":1,
+			"achi_required_days":0,
+			"achi_id":13,
+			"achi_name":"1_13",
+			"achi_condition":31,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":14,
+			"achi_type":1,
+			"achi_required_minutes":3,
+			"achi_required_days":0,
+			"achi_id":1,
+			"achi_name":"0_1",
+			"achi_condition":31,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":15,
+			"achi_type":1,
+			"achi_required_minutes":5,
+			"achi_required_days":0,
+			"achi_id":1,
+			"achi_name":"0_1",
+			"achi_condition":31,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":16,
+			"achi_type":1,
+			"achi_required_minutes":1,
+			"achi_required_days":0,
+			"achi_id":1,
+			"achi_name":"0_1",
+			"achi_condition":1023,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":17,
+			"achi_type":1,
+			"achi_required_minutes":3,
+			"achi_required_days":0,
+			"achi_id":1,
+			"achi_name":"0_1",
+			"achi_condition":1023,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		},
+		{
+			"_id":18,
+			"achi_type":1,
+			"achi_required_minutes":5,
+			"achi_required_days":0,
+			"achi_id":1,
+			"achi_name":"0_1",
+			"achi_condition":1023,
+			"achi_progress":0,
+			"update_time":"2018-05-07 00:00:00"
+		}
+	]
+}
