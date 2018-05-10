@@ -70,6 +70,20 @@
 			"overall_rating":8.1,
 			"upload_to_server":1,
 			"server_call_back":1
+		},
+		{
+			"_id":6,
+			"insert_time":"2018-05-31 21:56:00",
+			"start_time":"2018-05-31 21:56:00",
+			"end_time":"2018-05-31 21:56:00",
+			"is_user_finish":1,
+			"gain_exp":289,
+			"smell":2,
+			"constipation":1,
+			"stickiness":1,
+			"overall_rating":8.1,
+			"upload_to_server":1,
+			"server_call_back":1
 		}
 	]
 }
