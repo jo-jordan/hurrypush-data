@@ -84,6 +84,20 @@
 			"overall_rating":8.1,
 			"upload_to_server":1,
 			"server_call_back":1
+		},
+		{
+			"_id":7,
+			"insert_time":"2018-05-20 00:56:00",
+			"start_time":"2018-05-20 00:56:00",
+			"end_time":"2018-05-20 00:56:00",
+			"is_user_finish":1,
+			"gain_exp":4545,
+			"smell":1,
+			"constipation":2,
+			"stickiness":1,
+			"overall_rating":8.9,
+			"upload_to_server":1,
+			"server_call_back":1
 		}
 	]
 }
