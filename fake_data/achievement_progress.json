@@ -58,7 +58,7 @@
 			"achi_name":"0_5",
 			"achi_condition":5,
 			"achi_progress":0,
-			"update_time":"2018-05-07 00:00:00",
+			"update_time":"0000-00-00 00:00:00",
 			"achi_description":"连续5次在3分钟之内完成排便可达成"
 		},
 		{
@@ -82,7 +82,7 @@
 			"achi_name":"0_7",
 			"achi_condition":10,
 			"achi_progress":0,
-			"update_time":"2018-05-12 10:00:00",
+			"update_time":"0000-00-00 00:00:00",
 			"achi_description":"连续10次在1分钟之内完成排便可达成"
 		},
 		{
