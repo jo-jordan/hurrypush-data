@@ -1,0 +1,36 @@
+{
+  "code":0,
+  "device_list":
+  {
+    [
+      {
+        "device_name":"Sandiago",
+        "device_model":743278324,
+        "device_shop":"beijing",
+        "device_state":"stoped",
+        "device_location":"2132,3233"
+      },
+      {
+        "device_name":"Fransisco",
+        "device_model":543254432,
+        "device_shop":"wuhan",
+        "device_state":"stoped",
+        "device_location":"432,543"
+      },
+      {
+        "device_name":"Halinton",
+        "device_model":154541542,
+        "device_shop":"shanghai",
+        "device_state":"stoped",
+        "device_location":"545,32423"
+      },
+      {
+        "device_name":"Aventador",
+        "device_model":946543431,
+        "device_shop":"guangzhou",
+        "device_state":"stoped",
+        "device_location":"43,5432"
+      }
+    ]
+  }
+}
